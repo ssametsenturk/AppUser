@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\obj\Debug\netcoreapp2.1\Proje.Business.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\obj\Debug\netcoreapp2.1\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\obj\Debug\netcoreapp2.1\Proje.Business.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\obj\Debug\netcoreapp2.1\Proje.Business.AssemblyInfo.cs
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\bin\Debug\netcoreapp2.1\Proje.Business.deps.json
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\bin\Debug\netcoreapp2.1\Proje.Business.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\bin\Debug\netcoreapp2.1\Proje.Business.pdb
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\bin\Debug\netcoreapp2.1\Proje.DataAccess.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\bin\Debug\netcoreapp2.1\Proje.Entities.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\bin\Debug\netcoreapp2.1\Proje.DataAccess.pdb
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\bin\Debug\netcoreapp2.1\Proje.Entities.pdb
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\obj\Debug\netcoreapp2.1\Proje.Business.csproj.CopyComplete
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\obj\Debug\netcoreapp2.1\Proje.Business.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Business\obj\Debug\netcoreapp2.1\Proje.Business.pdb

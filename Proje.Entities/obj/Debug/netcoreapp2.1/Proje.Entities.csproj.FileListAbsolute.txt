@@ -1,0 +1,9 @@
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\obj\Debug\netcoreapp2.1\Proje.Entities.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\obj\Debug\netcoreapp2.1\Proje.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\obj\Debug\netcoreapp2.1\Proje.Entities.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\obj\Debug\netcoreapp2.1\Proje.Entities.AssemblyInfo.cs
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\bin\Debug\netcoreapp2.1\Proje.Entities.deps.json
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\bin\Debug\netcoreapp2.1\Proje.Entities.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\bin\Debug\netcoreapp2.1\Proje.Entities.pdb
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\obj\Debug\netcoreapp2.1\Proje.Entities.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.Entities\obj\Debug\netcoreapp2.1\Proje.Entities.pdb

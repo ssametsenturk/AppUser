@@ -1,0 +1,14 @@
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\bin\Debug\netcoreapp2.1\Proje.DataAccess.deps.json
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\bin\Debug\netcoreapp2.1\Proje.DataAccess.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\bin\Debug\netcoreapp2.1\Proje.DataAccess.pdb
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\obj\Debug\netcoreapp2.1\Proje.DataAccess.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\obj\Debug\netcoreapp2.1\Proje.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\obj\Debug\netcoreapp2.1\Proje.DataAccess.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\obj\Debug\netcoreapp2.1\Proje.DataAccess.AssemblyInfo.cs
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\obj\Debug\netcoreapp2.1\Proje.DataAccess.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\obj\Debug\netcoreapp2.1\Proje.DataAccess.pdb
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\bin\Debug\netcoreapp2.1\Proje.DataAccess.runtimeconfig.json
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\bin\Debug\netcoreapp2.1\Proje.DataAccess.runtimeconfig.dev.json
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\bin\Debug\netcoreapp2.1\Proje.Entities.dll
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\bin\Debug\netcoreapp2.1\Proje.Entities.pdb
+C:\Users\samet\Desktop\MyProjeDFile\Proje\Proje.DataAccess\obj\Debug\netcoreapp2.1\Proje.DataAccess.csproj.CopyComplete
